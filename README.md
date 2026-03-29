@@ -14,7 +14,6 @@ To classify Reddit text data into:
 ## Technologies
 - Python
 - Pandas
-- PyTorch
 - Transformers (Hugging Face)
 - Matplotlib
 
