@@ -83,18 +83,6 @@ This helps in understanding how sentiment varies across different communities.
 
 ---
 
-## 📁 Project Structure
-Sentiment_Analysis/
-│
-├── BERT_2.ipynb # Backend implementation
-├── app.py # Streamlit frontend
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── dataset/ # Input datasets
-
-
-
----
 
 ## 📌 Future Enhancements
 - Live Reddit data fetching using API  
